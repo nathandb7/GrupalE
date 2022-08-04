@@ -42,7 +42,35 @@ var artistas = [
       {
         nombre: 'Rihanna',
         biografia: 'Rihanna es una cantante, compositora, actriz y diseñadora de moda de Barbados. Su nombre real es Robyn Rihanna Fenty. Nació el 20 de febrero de 1988 en Saint Michael, Barbados. Su padre es un contador y su madre es una ama de casa. Rihanna comenzó a cantar a los 7 años de edad. A los 15 años, Rihanna firmó con la compañía discográfica Def Jam Recordings. Su primer álbum, Music of the Sun, fue lanzado en 2005. Su segundo álbum, A Girl Like Me, fue lanzado en 2006. Su tercer álbum, Good Girl Gone Bad, fue lanzado en 2007. Su cuarto álbum, Rated R, fue lanzado en 2009. Su quinto álbum, Loud, fue lanzado en 2010. Su sexto álbum, Talk That Talk, fue lanzado en 2011. Su séptimo álbum, Unapologetic, fue lanzado en 2012. Su octavo álbum, Anti, fue lanzado en 2016. Su noveno álbum, ANTI, fue lanzado en 2016. Su décimo álbum, ANTI, fue lanzado en 2016.'
-      }
+      },
+      {
+        nombre: 'Frida Kahlo',
+        biografia: 'Frida Kahlo de Rivera fue una pintora mexicana nacida el 6 de julio de 1907 en Coyoacán, Ciudad de México, y fallecida el 13 de julio de 1954 en la misma ciudad. Es considerada una de las más importantes pintoras mexicanas del siglo XX. Su obra está inspirada en la cultura mexicana y en los conflictos emocionales que la aquejaron durante toda su vida. Su pintura se caracteriza por su colorido y su originalidad, y por el uso de símbolos que reflejan sus propias vivencias y su visión del mundo.'
+      },
+      {
+        nombre: 'Diego Rivera',
+        biografia: 'Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez, conocido como Diego Rivera, fue un muralista, pintor y escultor mexicano, uno de los más importantes del siglo XX. Fue uno de los fundadores del movimiento muralista mexicano junto con José Clemente Orozco y David Alfaro Siqueiros. Su obra se caracteriza por su realismo social y por su compromiso político con el movimiento obrero y el comunismo.'
+      },
+      {
+        nombre: 'José Clemente Orozco',
+        biografia: 'José Clemente Orozco González fue un pintor mexicano, uno de los tres grandes muralistas mexicanos del siglo XX, junto con Diego Rivera y David Alfaro Siqueiros. Su obra se caracteriza por su realismo social y por su compromiso político con el movimiento obrero y el comunismo.'
+      },
+      {
+        nombre: 'David Alfaro Siqueiros',
+        biografia: 'David Alfaro Siqueiros fue un pintor, escultor y muralista mexicano, uno de los tres grandes muralistas mexicanos del siglo XX, junto con Diego Rivera y José Clemente Orozco. Su obra se caracteriza por su realismo social y por su compromiso político con el movimiento obrero y el comunismo.'
+      },
+      {
+        nombre: 'Roberto Matta',
+        biografia: 'Roberto Sebastián Antonio Matta Echaurren, conocido como Roberto Matta, fue un pintor y dibujante chileno, uno de los más importantes del siglo XX. Su obra se caracteriza por su surrealismo y por su compromiso político con el movimiento obrero y el comunismo.'
+      },
+      {
+        nombre: 'Joaquín Torres García',
+        biografia: 'Joaquín Torres García fue un pintor, escultor, grabador, dibujante, escritor y teórico del arte uruguayo. Fue uno de los fundadores del movimiento constructivista y uno de los más importantes artistas latinoamericanos del siglo XX.'
+      },
+      {
+        nombre: 'Fernando Botero',
+        biografia: 'Fernando Botero Angulo es un pintor y escultor colombiano, uno de los más importantes artistas latinoamericanos del siglo XX. Su obra se caracteriza por su estilo propio, conocido como "Boterismo", en el que las figuras humanas y los animales se representan con una exageración de las formas.'
+      },
     ];
 
     var lista = document.createElement('ul');
